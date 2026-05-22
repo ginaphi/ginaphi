@@ -24,6 +24,12 @@ a batteries-included starter that wires tanstack start, better-auth, drizzle, an
 
 renders openui-language descriptions into live ui inside vscode. the bet: agents produce ui better when the language they write is the language they render. soon on the marketplace as generative-ui-preview.
 
+▶ [**skills**](https://github.com/ginaphi/skills) — claude code skills · slash commands for your agent setup
+
+a growing collection of installable claude code skills. drop any into your project in one command:
+
+`npx skills@latest add ginaphi/skills`
+
 ---
 
 [github](https://github.com/ginaphi) · [x](https://x.com/ginaphi) · [mail](mailto:dev@ginaphi.com) · [llms.txt](https://ginaphi.com/llms.txt)
