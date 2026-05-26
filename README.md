@@ -32,4 +32,4 @@ a growing collection of installable claude code skills. drop any into your proje
 
 ---
 
-[github](https://github.com/ginaphi) · [x](https://x.com/ginaphi) · [mail](mailto:dev@ginaphi.com) · [llms.txt](https://ginaphi.com/llms.txt)
+[github](https://github.com/ginaphi) · [x](https://x.com/ginaphi) · [mail](mailto:dev@ginaphi.com) · [llms.txt](https://me.ginaphi.com/llms.txt)
